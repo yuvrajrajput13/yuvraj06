@@ -1,9 +1,11 @@
 body{
     color: white;
-    background-color:rgba(18,18,18,1);
+    /* background-color:rgba(18,18,18,1); */
         /* background-color:rgba(10,25,47,1); */
-            /* background-color:rgba(0,0,0,0.8); */
                 /* background-color:rgba(0,173,181,1); */
+                
+                /* background-color: rgba(255,0,87,0.7); */ 
+                background-color: rgba(11,19,43,1);
 }
 /* fevicon */
 #fevicon{
